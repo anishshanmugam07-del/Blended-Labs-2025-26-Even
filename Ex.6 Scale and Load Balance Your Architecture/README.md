@@ -1,6 +1,6 @@
 # Lab 6 – Scale and Load Balance Your Architecture
-## Name: Sushil Shiva R
-## Register Number: 212224250017
+## Name: Anish S
+## Register Number: 212224250003
 
 ## Title
 
